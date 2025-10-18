@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Fusion",
+  "description": "An application that uses AI to blend and transform user-uploaded images based on creative scenarios. Upload two images of people, and the AI will generate a new image of them hugging.",
+  "requestFramePermissions": []
+}
